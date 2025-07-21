@@ -83,5 +83,11 @@ Integrate battery storage and charge controller.
 Add AI-based fault prediction using historical data.
 AI controlled traffic monitering system integrated in Piezoelectric Power System
 
+## project Images:- 
+![image](https://github.com/user-attachments/assets/e47e71ef-f96c-48fb-b08b-9344377d3588)
+![image](https://github.com/user-attachments/assets/5593d6cf-6e95-493a-b5ac-afbccbf631e9)
+
+
+
 
         
