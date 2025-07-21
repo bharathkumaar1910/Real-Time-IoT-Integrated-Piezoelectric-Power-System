@@ -62,6 +62,7 @@ Real-time data collected for voltage, current, and power output.
 Transducer failure successfully detected using logic comparisons.
 Web dashboard displays live status, output, and active/faulty unit animation.
 
+## Result Images:-
  <img width="524" height="324" alt="Screenshot 2025-07-21 at 10 53 49 PM" src="https://github.com/user-attachments/assets/b3724c7d-753d-4aff-984d-21b58de4a364" />
  
 ## Tech Stack
@@ -81,5 +82,6 @@ Wireless IoT Networks: Self-sustaining sensor systems.
 Integrate battery storage and charge controller.
 Add AI-based fault prediction using historical data.
 AI controlled traffic monitering system integrated in Piezoelectric Power System
+
 
         
